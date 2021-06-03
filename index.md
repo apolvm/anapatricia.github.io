@@ -8,7 +8,8 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Currently, I am a senior at Lehman College located in the Bronx, NY. I am pursuing a bachelors in science in Computer Science
+with a minor in Environmental Science. 
 
 ## About My Mentor
 
