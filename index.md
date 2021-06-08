@@ -13,11 +13,11 @@ with a minor in Environmental Science.
 
 ## About My Mentor
 
-Mentor info goes here.
+My mentor is Rebecca A. Hutchinson from Oregon State University. She works on machine learning models and algorithms inspired by ecological problems and datasets. As her website states, she is part of the computational sustainability community, where she finds ways that computer science can contribute to promoting the health of the Earth’s ecosystems and bringing interesting new problems back to computer science. 
 
 ## About My Project
 
-Project description goes here.
+The topic that was suggested by my mentor for my project is modeling species distributions from remotely sensed data and inferring unseen links in pollination networks. 
 
 [My Final Report](files/finalreport.pdf)
 
