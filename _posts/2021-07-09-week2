@@ -1,0 +1,6 @@
+---
+layout: post
+title: Week 2 July 6th- July 9th
+---
+After our long holiday weekend, we resumed our readings by finishing analizing Estimating Site Occupancy Rates When Detection Probabilities Are Less Than One by Darryl L. Mackenzie. This time, our mentor explained us how covariates are added to the occupied sites formula, and how it varies depending on the number of covariates. 
+Our second task of the week was following the Overview of Unmarked documentation (found here: https://cran.r-project.org/web/packages/unmarked/vignettes/unmarked.pdf ) to start understad how to create occcupancy models with R. The "Unmarked" package can be downloaded from RStudio, and it includes various methods that help the user to estimate site occupancy, abundance, and density of animals. The package, includes a dataset that can be used to practice before using real data. I tried to find information about the dataset included in the package to be able to understand the numbers I was getting by using the formulas from the documentation. Unluckily, I could not find anything that would help me better understand. Our mentor gave us the task to create our own data to help us understand better. 
