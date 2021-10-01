@@ -19,7 +19,7 @@ My mentor is Rebecca A. Hutchinson from Oregon State University. She works on ma
 
 The topic that we will be working on this summer is modeling species distributions from remotely sensed data and inferring unseen links in pollination networks. More details about it will be posted as we progress with our project together. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/Clustering Methods and Occupancy Models For Better Detection Estimates and Occupancy Probabilities.pdf)
 
 ## My Blog
 
