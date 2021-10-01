@@ -21,6 +21,7 @@ The topic that we will be working on this summer is modeling species distributio
 
 [My Final Report](files/Clustering Methods and Occupancy Models For Better Detection Estimates and Occupancy Probabilities.pdf)
 
+
 ## My Blog
 
 [My Blog](blog.html)
