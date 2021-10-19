@@ -20,6 +20,7 @@ My mentor is Rebecca A. Hutchinson from Oregon State University. She works on ma
 The topic that we will be working on this summer is occupancy models and community data science. What is the best way to deal with impefect detection to obtain better occupancy and detection estimate values. More details about it will be posted as we progress with our project together. 
 
 [My Final Report](files/Clustering Methods and Occupancy Models For Better Detection Estimates and Occupancy Probabilities.pdf)
+Presentation for EECS REU: https://www.dropbox.com/s/uddwfow02xuj4h3/demetrius.hernandez%26anapatricia.olvera.mp4?dl=0
 
 
 ## My Blog
